@@ -1,0 +1,30 @@
+*{
+	margin:0;
+	padding:0;
+}
+.navbar-expand-lg {
+    width: 92%;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+#kontainer{
+    width: 92%;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+.box1{
+	width:50%;
+	float:left;
+}
+.box2{
+	width:50%;
+	float:left;
+	background: pink;
+}
+h4{
+	margin-left: 5%;
+}
+
+
+
+
